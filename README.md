@@ -1,5 +1,5 @@
 ## 👋 Hey there, I'm Baran!
-🚀 **Data Science Student at Freie Universität Berlin** 
+🚀 **Data Science Student at Freie Universität** 
 
 📍 Berlin, Germany
 
@@ -9,7 +9,7 @@
 ---
 
 ## About Me 🌐
-I’m a Data Science student with bachelor degree in Data Analytics who loves exploring data and uncovering hidden patterns. I’m passionate about statistics, data storytelling, and turning complex information into simple insights that can help make better business and economic decisions.
+I’m a **Data Science student with a background in Data Analytics** who loves exploring data and uncovering hidden patterns. I’m passionate about statistics, data storytelling, and turning complex information into simple insights that drive better business and economic decisions.
 
 ---
 ## 🛠️ Skills
